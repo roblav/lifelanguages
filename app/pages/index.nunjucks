@@ -1,0 +1,16 @@
+<!-- index.nunjucks -->
+{% extends "layout.nunjucks" %}
+
+{% block content %}
+<nav>
+    <ul>
+        <li><a href="contemplator.html">Contemplator</a></li>
+        <li><a href="doer.html">Doer</a></li>
+        <li><a href="influencer.html">Influencer</a></li>
+        <li><a href="mover.html">Mover</a></li>
+        <li><a href="producer.html">Producer</a></li>
+        <li><a href="responder.html">Responder</a></li>
+        <li><a href="shaper.html">Shaper</a></li>
+    </ul>
+</nav>
+{% endblock %}
