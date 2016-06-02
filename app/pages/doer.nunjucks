@@ -1,0 +1,20 @@
+<!-- index.nunjucks -->
+{% extends "layout.nunjucks" %}
+
+{% block content %}
+
+<h2>Doer</h2>
+
+<h3>Filter</h3>
+<p>“Are you doing your share?”</p>
+
+<h3>Need</h3>
+<p>Appreciation & Action</p>
+
+<h3>Passion</h3>
+<p>To Finish</p>
+
+<h3>Key Character Strength</h3>
+<p>Trustworthiness</p>
+
+{% endblock %}

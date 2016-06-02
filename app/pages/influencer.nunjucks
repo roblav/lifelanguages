@@ -1,0 +1,20 @@
+<!-- index.nunjucks -->
+{% extends "layout.nunjucks" %}
+
+{% block content %}
+
+<h2>Influencer</h2>
+
+<h3>Filter</h3>
+<p>“Are we communicating?”</p>
+
+<h3>Need</h3>
+<p>Affirmation & Connectedness</p>
+
+<h3>Passion</h3>
+<p>To Encourage</p>
+
+<h3>Key Character Strength</h3>
+<p>Enthusiasm</p>
+
+{% endblock %}
